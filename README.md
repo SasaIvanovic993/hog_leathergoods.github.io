@@ -1,2 +1,1 @@
-# hog_leathergoods.github.io
-HandCraft
+# david.github.io
